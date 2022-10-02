@@ -12,4 +12,4 @@ function slowfunc(callback){
     callback();
 }
 
-slowfunc(a);
+slowfunc(a); //A
